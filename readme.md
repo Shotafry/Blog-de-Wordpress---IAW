@@ -1,4 +1,4 @@
-#🌐 Blog de WordPress sobre Inteligencia Artificial - IAW
+🌐 Blog de WordPress sobre Inteligencia Artificial - IAW
 Este repositorio contiene el código y la configuración del blog desarrollado para la asignatura de Implantación de Aplicaciones Web (IAW). El proyecto consiste en el despliegue de un CMS (WordPress) para la creación de un blog técnico sobre tendencias en Inteligencia Artificial.
 
 Descripción del Proyecto
